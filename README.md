@@ -1,6 +1,6 @@
 # PUBLICATIONS
 
-**ine-Tuning BLIP for General Image Captioning with LLM-Based Correction
+**fine-Tuning BLIP for General Image Captioning with LLM-Based Correction
 Authers: Nithyasree cp, MR Harigopal;
 Presented at 2025 IEEE 4th International Conference for Advancement in Technology (ICONAT)**
 
